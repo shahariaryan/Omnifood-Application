@@ -1,4 +1,4 @@
-# <a href="https://omnifood-anuragkr.netlify.app/" target="_blank">Omnifood</a>
+# <a href="https://omnifood-foodsubscription-by-fozlur.netlify.app/" target="_blank">Omnifood</a>
 
 Single page website built as a final project for my HTML/CSS course. Omnifood is a
 fictional company focused on providing AI-based meals through a subscription service.
@@ -43,4 +43,4 @@ Having created the website from scratch, I learned how to create and implement f
 
 ---
 
-**Visit** the [website](https://omnifood-anuragkr.netlify.app/) to experience soothing hover effects, sticky navigation, responsive design and more.
+**Visit** the [website](https://omnifood-foodsubscription-by-fozlur.netlify.app/) to experience soothing hover effects, sticky navigation, responsive design and more.
