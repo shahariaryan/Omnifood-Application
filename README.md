@@ -18,7 +18,7 @@ Having created the website from scratch, I learned how to create and implement f
 - Utilized css-grid (for bigger layouts), flexbox(for smaller sections) and absolute positioning
 
 ---
-<h2>**Visit** the [website](https://omnifood-foodsubscription-by-fozlur.netlify.app/) to experience soothing hover effects, sticky navigation, responsive design and more.</h2>
+<h2><a href=https://omnifood-foodsubscription-by-fozlur.netlify.app/"> Visit Live Page</a></h2>
 ---
 
 ## Screenshots :
